@@ -17,8 +17,8 @@
 (setq inhibit-startup-message t)
 (setq initial-scratch-message "")
 
-(setq user-full-name "Sungho Kim(shiren)"
-      user-mail-address "shirenbeat@gmail.com")
+(setq user-full-name "Jewon Jung(Doubb)"
+      user-mail-address "doubele112@naver.com")
 
 (setq ad-redefinition-action 'accept) ;; 함수 redefine으로 인한 경고 생략
 
